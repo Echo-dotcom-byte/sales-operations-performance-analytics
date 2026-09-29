@@ -34,3 +34,4 @@ env/
 *.sqlite3
 *.db
 
+~$*.xlsx
