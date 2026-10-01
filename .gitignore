@@ -35,3 +35,7 @@ env/
 *.db
 
 ~$*.xlsx
+sql/olist_analysis.db
+
+sql/olist_analysis.db
+.DS_Store

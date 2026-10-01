@@ -1,0 +1,8 @@
+payment_type_group,total_payment_value,payment_record_count
+credit_card,12397278.59,74546
+boleto,2869361.27,19784
+"credit_card, voucher",338717.37,5385
+debit_card,217939.79,1528
+voucher,185422.28,2638
+"credit_card, debit_card",152.82,2
+not_defined,0.0,3

@@ -1,0 +1,4 @@
+delivery_performance,order_count,average_delivery_days,average_delivery_delay_days
+Early,88649,10.88,-13.01
+Late,7827,31.52,9.55
+Not Delivered,2965,,
